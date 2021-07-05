@@ -1,0 +1,34 @@
+/*body,
+ table,
+    thead,
+    tr,
+    tbody,
+    th,
+    td {
+        text-align: center;
+    }*/
+body{
+    background-color:greenyellow;
+    text-align: center !important;
+}
+p{
+	margin-top: 30px;
+	font-size: 30px;
+}
+input{
+	text-align: center;
+}
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+.abc a{ color: crimson;
+    background-color: chartreuse ;
+
+}
+.col-md-offset-4{
+   background-color: darkolivegreen;
+}
+
+
