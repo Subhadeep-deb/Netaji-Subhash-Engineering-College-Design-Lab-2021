@@ -15,7 +15,7 @@ Allows the user to register their account by filling their Email, Username, Pass
 •Login Form:
 If the user has been registered on the app, can login by passing the credentials.
 
-<img src="Login_1.png" height="160" width="380";>
+<img src="Login_1.png" height="160" width="380;">
 
 •User's Profile:
 After the user logged in, a simple profile with the user's username and password <br>displayed with a session Logout button.
