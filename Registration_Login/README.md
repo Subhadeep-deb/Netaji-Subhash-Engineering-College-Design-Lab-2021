@@ -14,6 +14,7 @@ Allows the user to register their account by filling their Email, Username, Pass
 
 •Login Form:
 If the user has been registered on the app, can login by passing the credentials.
+![Login_1](https://user-images.githubusercontent.com/86963570/124922140-d3aa7c80-e016-11eb-9837-fc7650bf6bd9.png)
 
 <img src="C:\Users\91869\OneDrive\Desktop\New folder (2) Login_1.png" height="160" width="380;">
 
