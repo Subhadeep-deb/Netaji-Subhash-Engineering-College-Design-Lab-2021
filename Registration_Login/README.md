@@ -20,7 +20,7 @@ If the user has been registered on the app, can login by passing the credentials
 •User's Profile:
 After the user logged in, a simple profile with the user's username and password <br>displayed with a session Logout button.
 
-<img src="registration.png" height="160" width="380" style="border: 1px solid black;">
+<img src="C:\Users\91869\OneDrive\Desktop\New folder (2)registration.png" height="160" width="380" style="border: 1px solid black;">
 
 •Password Reset:
 If the user forget his/her password, can reset by entering the registered Email id <br>and reset the password.
