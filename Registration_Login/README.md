@@ -41,7 +41,8 @@ Software requirements :-
 - ***[Node.js](https://nodejs.org/en/)***
 - ***[Node Package Manager](https://www.npmjs.com/get-npm)***
 - ***[MongoDB (Atlas)](https://www.mongodb.com/cloud/atlas)***
-- The server will start Running on
+-
+The server will start Running on
 + http://localhost:3002/
 
 
