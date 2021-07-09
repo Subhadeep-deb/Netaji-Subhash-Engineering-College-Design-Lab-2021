@@ -38,16 +38,15 @@ A Collection(**Users**) is populated with the user's credentials.
 ![collection_user](https://user-images.githubusercontent.com/86963570/125126660-0d63ac00-e119-11eb-9161-9db8ba8f4744.png)
 
 Software requirements :-
-Tools that we need to run this app:
-
 - ***[Node.js](https://nodejs.org/en/)***
 - ***[Node Package Manager](https://www.npmjs.com/get-npm)***
 - ***[MongoDB (Atlas)](https://www.mongodb.com/cloud/atlas)***
+- The server will start Running on
++ http://localhost:3002/
+
 
 Conclusion:-
 This project is basically provides a Registration and login system where the user data will be reflected to the database .
 The project also make a good security system to autheticate a perticular user by his/her credentials .
 All over this project gives a user friendly solution to make easy signup for the users .
 
-The server will start Running on
-+ http://localhost:3002/
