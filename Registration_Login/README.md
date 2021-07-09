@@ -44,14 +44,10 @@ Tools that we need to run this app:
 - ***[Node Package Manager](https://www.npmjs.com/get-npm)***
 - ***[MongoDB (Atlas)](https://www.mongodb.com/cloud/atlas)***
 
-Installing
-```
-npm install
-```
-To Run the App
-```
-node server.js
-```
+Conclusion:-
+This project is basically provides a Registration and login system where the user data will be reflected to the database .
+The project also make a good security system to authebticate a perticular user by his/her credentials .
+All over this project gives a user friendly solution to make easy signup for the users .
 
 The server will start Running on
 + http://localhost:3002/
