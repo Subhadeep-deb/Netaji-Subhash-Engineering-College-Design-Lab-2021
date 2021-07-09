@@ -46,7 +46,7 @@ Tools that we need to run this app:
 
 Conclusion:-
 This project is basically provides a Registration and login system where the user data will be reflected to the database .
-The project also make a good security system to authebticate a perticular user by his/her credentials .
+The project also make a good security system to autheticate a perticular user by his/her credentials .
 All over this project gives a user friendly solution to make easy signup for the users .
 
 The server will start Running on
