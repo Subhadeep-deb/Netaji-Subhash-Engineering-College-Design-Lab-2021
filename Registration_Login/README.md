@@ -53,9 +53,6 @@ Installing
 ```
 npm install
 ```
-Connection to DataBase Access
-At line 11 on ```./server.js``` change ***```<DB_USERNAME>```*** with your DataBase UserName & ***```<DB_PASSWORD>```*** with your DataBase Password.
-
 To Run the App
 ```
 node server.js
