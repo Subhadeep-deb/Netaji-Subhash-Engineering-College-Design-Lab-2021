@@ -37,11 +37,6 @@ Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as t
 A Collection(**Users**) is populated with the user's credentials.
 ![collection_user](https://user-images.githubusercontent.com/86963570/125126660-0d63ac00-e119-11eb-9161-9db8ba8f4744.png)
 
-A Collection(**session**) is created which stores the users Logged session.
-<br>
-<br>
-<br>
-
 Software requirements :-
 Tools that we need to run this app:
 
